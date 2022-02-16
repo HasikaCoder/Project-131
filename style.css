@@ -1,0 +1,59 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#title
+{
+    text-align: center;
+}
+
+#Bedroom
+{
+    width: 150px;
+    height: 65px;
+    font-size: 25px;
+    text-align: center;
+
+}
+#tv
+{
+    width: 150px;
+    height: 65px;
+    font-size: 25px;
+    text-align: center;
+
+}
+#wardrobe
+{
+    width: 150px;
+    height: 65px;
+    font-size: 25px;
+    text-align: center;
+
+}
+#kitchen
+{
+    width: 150px;
+    height: 65px;
+    font-size: 25px;
+    text-align: center;
+
+}
+#fruits
+{
+    width: 150px;
+    height: 65px;
+    font-size: 25px;
+    text-align: center;
+
+}
+#toys
+{
+    width: 150px;
+    height: 65px;
+    font-size: 25px;
+    text-align: center;
+
+}
